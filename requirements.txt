@@ -1,9 +1,8 @@
-tensorflow
+tensorflow==2.19.0
 tensorboard
 pandas 
 numpy 
 scikit-learn
-tensorboard
 matplotlib
 streamlit
 scikeras
